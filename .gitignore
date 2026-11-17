@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Local databases
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# macOS
+._*
+.DS_Store

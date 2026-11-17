@@ -1,0 +1,13 @@
+ahok-memory
+Copyright 2026 Epsimo AI
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes material derived from OpenMemory by CaviraOSS,
+licensed under the Apache License, Version 2.0. The memory API, the MCP
+tool names (openmemory_query, openmemory_store, openmemory_list,
+openmemory_get, openmemory_reinforce) and the memory sector model described
+in this skill come from OpenMemory.
+
+OpenMemory is a trademark or project name of its respective owners. Its use
+here is for attribution only and does not imply endorsement.
